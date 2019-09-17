@@ -52,5 +52,5 @@ and more.... :shipit:
 ## TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
 
-###  :star2: this repo if you loved it  :simple_smile:
+###  :star2: this repo if you loved it
 
