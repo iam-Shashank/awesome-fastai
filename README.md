@@ -1,7 +1,6 @@
 # awesome-fastai :globe_with_meridians: :pushpin:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-Collection of fastai resources: blog posts, projects, etc.
-<br></br>
+collection of fastai resources: blog posts, projects, etc.
 
 ## Kaggle Links :sparkle:
 
@@ -39,6 +38,7 @@ and more.... :shipit:
 * [Things Jeremy says to do - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/things-jeremy-says-to-do/36682)
 * [Things Jeremy says to do (Part 2) - Part 2 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/things-jeremy-says-to-do-part-2/41533)
 * [ImageNette/Woof Leaderboards - guidelines for proving new high scores? - fastai users - Deep Learning Course Forums](https://forums.fast.ai/t/imagenette-woof-leaderboards-guidelines-for-proving-new-high-scores/52714/19)
+
 ## Blogposts :sparkle:
 * [UPDATED FOR 2019! Learn Machine Learning & Deep Learning with us: TWiML x Fast.ai Study Group - This Week in Machine Learning & AI](https://twimlai.com/twiml-x-fast-ai/)
 * [Building Web App for Computer Vision Model & Deploying to Production in 10 Minutes\*: A Detailed Guide](https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4)
@@ -49,7 +49,8 @@ and more.... :shipit:
 * [Announcing fast.ai part 1 now available as Kaggle Kernels](https://towardsdatascience.com/announcing-fast-ai-part-1-now-available-as-kaggle-kernels-8ef4ca3b9ce6)
 * [Track and organize fastai experimentation process in Neptune](https://medium.com/neptune-ml/track-and-organize-fastai-experimentation-process-in-neptune-78ec8d6b18b0)
 
-
 ## TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
+
+###  :star2: this repo if you loved it :simple_smile:
 
