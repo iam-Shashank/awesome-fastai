@@ -26,7 +26,7 @@ and more.... :shipit:
 * [Google Retrieval Challenge 2019](https://github.com/ducha-aiki/google-retrieval-challenge-2019-fastai-starter)
 * [Fastai for Medical AI](https://github.com/renato145/fastai_scans)
 
-## Forum Gems :sparkle:
+## Forum Gems :sparkle: [Join](https://forums.fast.ai/)
 * [Lesson 1 links to different parts in video - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/lesson-1-links-to-different-parts-in-video/27581)
 * [Tips for building large image datasets - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688/6)
 * [Geospatial Deep Learning resources & study group - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
