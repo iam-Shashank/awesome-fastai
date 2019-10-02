@@ -12,6 +12,7 @@ collection of fastai resources: blog posts, projects, etc.
 * [Fluke Detection | Radek Osmulski](https://www.kaggle.com/c/humpback-whale-identification/discussion/76281#448231)
 * [Bears Dataset](https://www.kaggle.com/stansidel/bears-fastai-course)
 * [iMet Starter](https://www.kaggle.com/mnpinto/imet-fastai-starter)
+* [Fastai v2 Pipeline Tutorial](https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial)
 
 and more.... :shipit:
 
